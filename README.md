@@ -36,5 +36,10 @@ Start JAD Runner first (it serves on launch), then restart your MCP client.
 
 The runner is developed inside the JAD Apps platform monorepo. This repository hosts release artifacts and documentation.
 
+## License
+
+Proprietary — © 2026 John Donnelly, trading as JAD Apps. All rights
+reserved. See [LICENSE](LICENSE).
+
 ---
 A [JAD Apps](https://jadapps.app) product.
