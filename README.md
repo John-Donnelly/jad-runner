@@ -6,7 +6,7 @@ The desktop companion for [jadapps.app](https://jadapps.app) — runs the platfo
 
 ## Download
 
-Grab the latest Windows installer or portable exe from [Releases](https://github.com/John-Donnelly/jad-runner/releases).
+Grab the latest Windows installer or portable exe from [Releases](https://github.com/JAD-Apps/jad-runner/releases).
 
 > **Note:** current builds are unsigned (code-signing certificates are in progress) — Windows SmartScreen will warn on first run. Choose "More info" → "Run anyway" if you trust the source.
 
